@@ -7,3 +7,5 @@ namespace Lab1.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
+
+test
